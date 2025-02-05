@@ -1,0 +1,21 @@
+{
+  "name": "branch-strategy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Branch testing",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cblanquera/branch-strategy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cblanquera/branch-strategy/issues"
+  },
+  "homepage": "https://github.com/cblanquera/branch-strategy#readme"
+}
